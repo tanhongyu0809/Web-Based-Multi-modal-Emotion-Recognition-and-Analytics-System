@@ -1,0 +1,4 @@
+Voice Emotion Dataset/
+*.npy
+*.h5
+__pycache__/
