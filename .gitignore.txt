@@ -1,4 +1,5 @@
 Voice Emotion Dataset/
 *.npy
 *.h5
+*.keras
 __pycache__/
